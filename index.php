@@ -1,5 +1,5 @@
-<? php
+<?php
   
-  include_once("dj charra") ;
+include_once("dj charra") ;
 
 ?>

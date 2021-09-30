@@ -1,4 +1,3 @@
-
 echo "# charra-web2" >> README.md
 git init
 git add README.md
